@@ -6,6 +6,9 @@ export default function Home() {
       <div>
         <h1>Enter your Name</h1>
       </div>
+      <form action="">
+        <input type="text" placeholder="Type your name..." />
+      </form>
     </div>
   );
 }
